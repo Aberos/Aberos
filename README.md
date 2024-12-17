@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mario Junior
+# 👨🏻‍💻 Mario Junior
 
 **`Desenvolvedor Full Stack`**
 
