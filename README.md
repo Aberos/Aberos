@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack com formação pela FATEC São José do Rio Preto - SP. Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades de aprendizado. Adoro explorar as linguagens e frameworks com os quais trabalho, e estou constantemente em busca de expandir meus conhecimentos, seja aprimorando minhas habilidades nas tecnologias que já domino ou aprendendo novas linguagens e ferramentas. Além de programar, sou fascinado pelo universo da tecnologia como um todo, sempre atento às inovações que surgem na área de desenvolvimento.
+Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FATEC São José do Rio Preto - SP. Tenho paixão por tecnologia e desenvolvimento de software, sempre buscando novos desafios e oportunidades de aprendizado. Gosto de explorar as linguagens e frameworks com os quais trabalho, aprimorando minhas habilidades e expandindo meus conhecimentos. Além de programar, sou fascinado pelo universo tecnológico e acompanho as inovações na área de desenvolvimento.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mario-souza-junior">
