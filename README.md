@@ -177,14 +177,6 @@ Me chamo Mario Cesar Souza Junior,sou desenvolvedor Full Stack com formação pe
 />
 <img 
     align="left" 
-    alt="c" 
-    title="c"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=c" 
-/>
-<img 
-    align="left" 
     alt="c++" 
     title="c++"
     width="30px" 
@@ -204,10 +196,9 @@ Me chamo Mario Cesar Souza Junior,sou desenvolvedor Full Stack com formação pe
     alt="docker" 
     title="docker"
     width="30px" 
-    style="padding-right: 10px;padding-top: 10px;" 
+    style="padding-right: 10px;" 
     src="https://skillicons.dev/icons?i=docker" 
 />
-<br/>
 <br/>
 <br/>
 ---
