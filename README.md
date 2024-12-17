@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack`**
 
-Me chamo Mario Cesar Souza Junior,sou desenvolvedor Full Stack com formação pela FATEC São José do Rio Preto - SP. Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades de aprendizado. Adoro explorar as linguagens e frameworks com os quais trabalho, e estou constantemente em busca de expandir meus conhecimentos, seja aprimorando minhas habilidades nas tecnologias que já domino ou aprendendo novas linguagens e ferramentas. Além de programar, sou fascinado pelo universo da tecnologia como um todo, sempre atento às inovações que surgem na área de desenvolvimento.
+Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack com formação pela FATEC São José do Rio Preto - SP. Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de novos desafios e oportunidades de aprendizado. Adoro explorar as linguagens e frameworks com os quais trabalho, e estou constantemente em busca de expandir meus conhecimentos, seja aprimorando minhas habilidades nas tecnologias que já domino ou aprendendo novas linguagens e ferramentas. Além de programar, sou fascinado pelo universo da tecnologia como um todo, sempre atento às inovações que surgem na área de desenvolvimento.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mario-souza-junior">
@@ -39,168 +39,156 @@ Me chamo Mario Cesar Souza Junior,sou desenvolvedor Full Stack com formação pe
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=html" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=css" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=js" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=ts" 
-/>
-<img 
-    align="left" 
-    alt="C#"
-    title="C#" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=cs" 
-/>
-<img 
-    align="left" 
-    alt=".NET"
-    title=".NET" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=dotnet" 
-/>
-<img 
-    align="left" 
-    alt="Angular"
-    title="Angular" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=angular" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=react" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=nextjs" 
-/>
-<img 
-    align="left" 
-    alt="Vue.js" 
-    title="Vue.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=vue" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=bootstrap" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=tailwind" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=sass" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=php" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=jquery" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=git" 
-/>
-<img 
-    align="left" 
-    alt="Golang" 
-    title="Golang"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=go" 
-/>
-<img 
-    align="left" 
-    alt="c++" 
-    title="c++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=cpp" 
-/>
-<img 
-    align="left" 
-    alt="lua" 
-    title="lua"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=lua" 
-/>
-<img 
-    align="left" 
-    alt="docker" 
-    title="docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://skillicons.dev/icons?i=docker" 
-/>
-<br/>
-<br/>
+<p align="left">
+    <img 
+        alt="HTML" 
+        title="HTML" 
+        src="https://skillicons.dev/icons?i=html" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="CSS" 
+        title="CSS"
+        src="https://skillicons.dev/icons?i=css" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="JavaScript" 
+        title="JavaScript"
+        src="https://skillicons.dev/icons?i=js" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="TypeScript"
+        title="TypeScript" 
+        src="https://skillicons.dev/icons?i=ts" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="C#" 
+        title="C#" 
+        src="https://skillicons.dev/icons?i=cs" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt=".NET"
+        title=".NET" 
+        src="https://skillicons.dev/icons?i=dotnet" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Angular"
+        title="Angular" 
+        src="https://skillicons.dev/icons?i=angular" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="React"
+        title="React" 
+        src="https://skillicons.dev/icons?i=react" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Next.js" 
+        title="Next.js"
+        src="https://skillicons.dev/icons?i=nextjs" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Vue.js" 
+        title="Vue.js"
+        src="https://skillicons.dev/icons?i=vue" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Bootstrap" 
+        title="Bootstrap" 
+        src="https://skillicons.dev/icons?i=bootstrap" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Tailwind" 
+        title="Tailwind"
+        src="https://skillicons.dev/icons?i=tailwind" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="SASS" 
+        title="SASS"
+        src="https://skillicons.dev/icons?i=sass" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="PHP" 
+        title="PHP"
+        src="https://skillicons.dev/icons?i=php" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="JQuery" 
+        title="JQuery"
+        src="https://skillicons.dev/icons?i=jquery" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Git" 
+        title="Git"
+        src="https://skillicons.dev/icons?i=git" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Golang" 
+        title="Golang"
+        src="https://skillicons.dev/icons?i=go" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="C" 
+        title="C"
+        src="https://skillicons.dev/icons?i=c" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="C++" 
+        title="C++"
+        src="https://skillicons.dev/icons?i=cpp" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Lua" 
+        title="Lua"
+        src="https://skillicons.dev/icons?i=lua" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Docker" 
+        title="Docker"
+        src="https://skillicons.dev/icons?i=docker" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+</p>
+
 ---
 
 ### 📊 Estatísticas
@@ -213,12 +201,10 @@ Me chamo Mario Cesar Souza Junior,sou desenvolvedor Full Stack com formação pe
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Aberos&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&rank_icon=github" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aberos&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aberos&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
