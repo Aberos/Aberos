@@ -109,6 +109,8 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" align="middle" />
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" align="middle" />
   <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" align="middle" />
+  <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" title="GitLab" align="middle" />
+  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Microsoft Azure" title="Microsoft Azure" align="middle" />
   <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" align="middle" />
   <img src="https://cdn.simpleicons.org/rancher" width="48" height="48" alt="Rancher" title="Rancher" align="middle" />
   <img src="https://dokploy.com/icon.svg" width="48" height="48" alt="Dokploy" title="Dokploy" align="middle" />
