@@ -6,30 +6,30 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
 
 <p align="left">
     <a href="https://www.linkedin.com/in/mario-souza-junior">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
+        <img
+            alt="LinkedIn"
+            title="LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="https://x.com/m_jun1m">
-        <img 
-            alt="twitter" 
-            title="twitter" 
-            src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+        <img
+            alt="X"
+            title="X"
+            src="https://custom-icon-badges.demolab.com/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
         />
     </a>
     <a href="https://github.com/Aberos?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Aberos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        <img
+            alt="Estrelas"
+            title="Total de estrelas no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/Aberos?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"
         />
     </a>
     <a href="https://github.com/Aberos?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
             src="https://custom-icon-badges.demolab.com/github/followers/Aberos?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
@@ -37,188 +37,104 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
+
+### ⚙️ Backend
 
 <p align="left">
-    <img 
-        alt="HTML" 
-        title="HTML" 
-        src="https://skillicons.dev/icons?i=html" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="CSS" 
-        title="CSS"
-        src="https://skillicons.dev/icons?i=css" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="JavaScript" 
-        title="JavaScript"
-        src="https://skillicons.dev/icons?i=js" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="TypeScript"
-        title="TypeScript" 
-        src="https://skillicons.dev/icons?i=ts" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="C#" 
-        title="C#" 
-        src="https://skillicons.dev/icons?i=cs" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt=".NET"
-        title=".NET" 
-        src="https://skillicons.dev/icons?i=dotnet" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Python"
-        title="Python" 
-        src="https://skillicons.dev/icons?i=python" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Django"
-        title="Django" 
-        src="https://skillicons.dev/icons?i=django" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Angular"
-        title="Angular" 
-        src="https://skillicons.dev/icons?i=angular" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="React"
-        title="React" 
-        src="https://skillicons.dev/icons?i=react" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Next.js" 
-        title="Next.js"
-        src="https://skillicons.dev/icons?i=nextjs" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Vue.js" 
-        title="Vue.js"
-        src="https://skillicons.dev/icons?i=vue" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Bootstrap" 
-        title="Bootstrap" 
-        src="https://skillicons.dev/icons?i=bootstrap" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Tailwind" 
-        title="Tailwind"
-        src="https://skillicons.dev/icons?i=tailwind" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="SASS" 
-        title="SASS"
-        src="https://skillicons.dev/icons?i=sass" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="PHP" 
-        title="PHP"
-        src="https://skillicons.dev/icons?i=php" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="JQuery" 
-        title="JQuery"
-        src="https://skillicons.dev/icons?i=jquery" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Git" 
-        title="Git"
-        src="https://skillicons.dev/icons?i=git" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Golang" 
-        title="Golang"
-        src="https://skillicons.dev/icons?i=go" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="C" 
-        title="C"
-        src="https://skillicons.dev/icons?i=c" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="C++" 
-        title="C++"
-        src="https://skillicons.dev/icons?i=cpp" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Lua" 
-        title="Lua"
-        src="https://skillicons.dev/icons?i=lua" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
-    <img 
-        alt="Docker" 
-        title="Docker"
-        src="https://skillicons.dev/icons?i=docker" 
-        width="30" 
-        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
-    />
+  <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" title="C#" align="middle" />
+  <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" title=".NET" align="middle" />
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" title="Python" align="middle" />
+  <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" title="Django" align="middle" />
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" title="Node.js" align="middle" />
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" title="Go" align="middle" />
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" align="middle" />
+</p>
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" align="middle" />
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" title="CSS" align="middle" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" align="middle" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" align="middle" />
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" align="middle" />
+  <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" title="Angular" align="middle" />
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" title="Next.js" align="middle" />
+  <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" title="Vue.js" align="middle" />
+</p>
+
+### 💅 UI e Estilização
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" align="middle" />
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS" title="Tailwind CSS" align="middle" />
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" title="Sass" align="middle" />
+</p>
+
+### 🗄️ Bancos de Dados e Cache
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" title="PostgreSQL" align="middle" />
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" title="MySQL" align="middle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="48" height="48" alt="Microsoft SQL Server" title="Microsoft SQL Server" align="middle" />
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" title="Redis" align="middle" />
+  <img src="https://docs.keydb.dev/img/favicon/keydb-icon.svg" width="48" height="48" alt="KeyDB" title="KeyDB" align="middle" />
+</p>
+
+### 📨 Mensageria e Processamento Assíncrono
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" title="RabbitMQ" align="middle" />
+  <img src="https://docs.celeryq.dev/en/stable/_static/favicon.ico" width="48" height="48" alt="Celery" title="Celery" align="middle" />
+</p>
+
+### 📦 Storage
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/minio" width="48" height="48" alt="MinIO" title="MinIO" align="middle" />
+</p>
+
+### 📊 Observabilidade e Monitoramento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" title="Grafana" align="middle" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" title="Elasticsearch" align="middle" />
+  <img src="https://cdn.simpleicons.org/kibana" width="48" height="48" alt="Kibana" title="Kibana" align="middle" />
+</p>
+
+### 🚀 DevOps e Infraestrutura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" title="Docker" align="middle" />
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" align="middle" />
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" align="middle" />
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" title="Linux" align="middle" />
+  <img src="https://cdn.simpleicons.org/rancher" width="48" height="48" alt="Rancher" title="Rancher" align="middle" />
+  <img src="https://dokploy.com/icon.svg" width="48" height="48" alt="Dokploy" title="Dokploy" align="middle" />
+</p>
+
+### 💻 Outras Linguagens
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" title="C" align="middle" />
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" title="C++" align="middle" />
+  <img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" title="Lua" align="middle" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-stats-extended.vercel.app/api?username=Aberos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aberos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+<p align="left">
+    <img
+        alt="Estatísticas do GitHub"
+        height="190"
+        src="https://github-stats-extended.vercel.app/api?username=Aberos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"
+    />
+    <img
+        alt="Linguagens mais utilizadas"
+        height="190"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aberos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    />
 </p>
