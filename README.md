@@ -83,6 +83,20 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
         style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
     />
     <img 
+        alt="Python"
+        title="Python" 
+        src="https://skillicons.dev/icons?i=python" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
+        alt="Django"
+        title="Django" 
+        src="https://skillicons.dev/icons?i=django" 
+        width="30" 
+        style="margin-right: 10px; max-width: 100%; height: auto; display: inline-block;"
+    />
+    <img 
         alt="Angular"
         title="Angular" 
         src="https://skillicons.dev/icons?i=angular" 
