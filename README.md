@@ -51,7 +51,7 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
   <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" title="PHP" align="middle" />
 </p>
 
-### 🎨 Frontend
+### 🖥️ Frontend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" title="HTML" align="middle" />
@@ -64,7 +64,7 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
   <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue.js" title="Vue.js" align="middle" />
 </p>
 
-### 💅 UI e Estilização
+### 🎨 UI e Estilização
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" title="Bootstrap" align="middle" />
