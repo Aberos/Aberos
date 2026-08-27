@@ -213,12 +213,12 @@ Me chamo Mario Cesar Souza Junior, sou desenvolvedor Full Stack formado pela FAT
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Aberos&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&rank_icon=github" 
+    src="https://github-stats-extended.vercel.app/api?username=Aberos&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br&rank_icon=github" 
   />
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aberos&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aberos&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
